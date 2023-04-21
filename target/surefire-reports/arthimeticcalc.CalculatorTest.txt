@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: arthimeticcalc.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.583 s - in arthimeticcalc.CalculatorTest
